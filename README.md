@@ -5,14 +5,18 @@ The content in this repository is provided as-is. If you choose to use any conte
 
 # Pre-Requisites
 
+## For both options
+
+* [Set up a GitHub account](https://github.com/join) if you don't already have one.
+
+## For Option 1
 * [Install Hugo](https://gohugo.io/getting-started/installing/) using the most appropriate instructions for your Operating System
 * [Install Visual Studio Code](https://code.visualstudio.com/download). **Note:** VSCode is optional, feel free to use your preferred editor!
 * [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* [Set up a GitHub account](https://github.com/join) if you don't already have one.
 
 # Instructions
 
-## Option 1 - If you have Hugo installed (preferred)
+## Option 1 - If you would like to make changes on your local machine
 
 1. Navigate to the Azure Doc [Tutorial: Publish a Hugo Site to Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-hugo).
 2. Follow the instructions through the tutorial (including deploying your Web App to Azure Static Web Apps).
@@ -25,7 +29,7 @@ The content in this repository is provided as-is. If you choose to use any conte
 7. Share your links in the chat with the group, we'd love to see what you're making! Get creative!
 8. Bonus points - If you get to this stage, investigate some of the features of Azure Static Web Apps - Such as Preview Environments, Azure Front Door, Custom Domains and more.
 
-## Option 2 - If you don't have Hugo installed
+## Option 2 - If you would like the 'accelerated' path and want to fork this repository.
 
 1. Fork this repository (Hint: see the tips, references & links section).
 2. Navigate to the Azure Doc [Tutorial: Publish a Hugo Site to Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-hugo).
